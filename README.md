@@ -112,6 +112,7 @@ We will grade your work _approximately_ as follows:
 ### Submission instructions
 
 + You should commit all source code to your assigned Github repository under a branch named `mp3`.
+	+ You should submit your work and preserve the provided repository folder structure. While you should not submit binaries (`.class` files, etc.), it is best to submit all other files so that compilation and execution is easy. Think of working with the staff as your collaborators; you want to keep the repository organization consistent for this purpose.
 + Since you will be working in groups, only one submission per group is expected.
 + You should submit a PDF file to Gradescope with the the following information:
 	+ Names of students in the group;
